@@ -1,0 +1,12 @@
+﻿  logitechReadWrite.cpp
+D:\LogitechStandalone\LogitechStandalone\FFB\logitechReadWrite.cpp(115,65): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\LogitechStandalone\LogitechStandalone\FFB\logitechReadWrite.cpp(115,52): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  FFB.vcxproj -> D:\LogitechStandalone\LogitechStandalone\Debug\FFB.exe
